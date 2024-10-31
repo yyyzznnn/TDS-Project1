@@ -1,5 +1,5 @@
 # TDS-Project1
-## GitHub Users in Boston
+## GitHub Users in Barcelona
 
 This repository contains data about GitHub users in Delhi with over 100 followers and their repositories.
 
