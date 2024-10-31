@@ -11,7 +11,7 @@ This repository contains data about each GitHub users in Barcelona with atleast 
 ## MetaData
 
 - Scraped the data using GitHub API
-- Date of Date Collection: 2024-10-31
+- Date of Date Collection: 31/10/2024
 - Contains users with over 100 followers
 - Up to 500 most recently published repositories by each user
   
