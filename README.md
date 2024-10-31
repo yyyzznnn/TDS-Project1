@@ -1,7 +1,7 @@
 # TDS-Project1
 ## GitHub Users in Barcelona
 
-This repository contains data about GitHub users in Barcelona with atleast 100 followers with maximum 500 repositories.
+This repository contains data about each GitHub users in Barcelona with atleast 100 followers with maximum 500 most recently pushed repositories.
 
 ## File Structure
 
