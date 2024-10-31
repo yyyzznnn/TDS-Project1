@@ -1,18 +1,17 @@
 # TDS-Project1
 ## GitHub Users in Barcelona
 
-This repository contains data about GitHub users in Delhi with over 100 followers and their repositories.
+This repository contains data about GitHub users in Barcelona with atleast 100 followers with maximum 500 repositories.
 
 ## File Structure
 
-1. `users.csv`: Contains information about 343 GitHub users in Delhi with over 100 followers
+1. `users.csv`: Contains information about 441 GitHub users in Barcelona with atleast 100 followers
 2. `repositories.csv`: Contains information about 27480 public repositories from these users
-3. `main.py`: Python script used to scrape the data
 
-## Data Collection
+## MetaData
 
-- Data collected using GitHub API
-- Date of collection: 2024-10-31
-- Only included users with 100+ followers
-- Up to 500 most recently pushed repositories per user
+- Scraped the data using GitHub API
+- Date of Date Collection: 2024-10-31
+- Contains users with over 100 followers
+- Up to 500 most recently published repositories by each user
   
